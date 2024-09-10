@@ -1,0 +1,28 @@
+/**
+ * Introduction to Computer Science, Ariel University, Ex1 (manual Example + a Template for my solution)
+ * See: <a href="https://docs.google.com/document/d/1C1BZmi_Qv6oRrL4T5oN9N2bBMFOHPzSI/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true">...</a>
+ *
+ * Ex1 Bulls & Cows - Automatic solution.
+ * **** README ****
+ * Bulls & Cows is a code-guessing game that challenges you to find a secret code with 2-6 digits.
+ * After each guess, you receive feedback in the form of bulls and cows:
+ * Bulls represent the correct numbers in the correct positions.
+ * Cows represent correct numbers that are not in the right positions.
+ * by getting this information you can strategically change your guesses until you guess the right code!
+ *
+ * **** General Solution (algorithm) ****
+ * The automatic solving algorithm is a way to guess the code in the minimum possible attempts.
+ * The program as a boolean array representing the possible guesses (Each index in the array corresponds to a number).
+ * the first guess is "0000", after we get the bulls and cows feedback from the server, we disqualified
+ * all the indexes (possible guesses) in the boolean array that do not match the same number of bulls and cows as the guess.
+ * then we send the next possible guess from our boolean array until we successfully find the code.
+ *
+ * **** Results ****
+ * for 2,3,4,5,6 digit code:
+ *
+ * Average guesses 2: 6.65
+ * Average guesses 3: 7.64
+ * Average guesses 4: 8.22
+ * Average guesses 5: 8.75
+ * Average guesses 6: 9.22
+ */
