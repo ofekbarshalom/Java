@@ -1,4 +1,4 @@
-# Introduction to Java Class Repository
+# Introduction to Java Class
 
 Welcome to the **Introduction to Java Class** repository! This project serves as a comprehensive foundation for understanding key concepts in Java programming, focusing on:
 
