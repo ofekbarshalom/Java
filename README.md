@@ -11,14 +11,6 @@ Welcome to the **Introduction to Java Class** repository! This project serves as
 - **Fundamental Algorithms**: 
   - Dive into basic algorithms for sorting, searching, and problem-solving techniques crucial for writing efficient code.
 
-## Project Features
-
-- **Structured Learning Path**: Organized modules that build upon each other for a smooth learning experience.
-  
-- **Hands-On Examples**: Practical examples and exercises to reinforce understanding of concepts.
-
-- **Comprehensive Documentation**: Detailed explanations and comments throughout the code for clarity on Java concepts.
-
 ## Getting Started
 
 To get started with this repository, follow these steps:
