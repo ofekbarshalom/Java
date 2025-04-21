@@ -1,6 +1,6 @@
-# Java Learning Repository
+# Java Repository
 
-This repository contains structured content and examples to help you learn Java, from the basics to Object-Oriented Programming (OOP).
+This repository contains Java projects from my university coursework, covering topics from basic programming to Object-Oriented Programming (OOP).
 
 ## 📁 Repository Structure
 
