@@ -4,6 +4,9 @@ This repository contains Java projects from my university coursework, covering t
 
 ## 📁 Repository Structure
 
+- `busybee/`:  
+  A secure web application project built with Java/Spring, including authentication, CSRF examples, and data import/export flows.
+
 - `Introduction_to_java/`:  
   Basic Java concepts — syntax, variables, data types, control structures, etc.
 
