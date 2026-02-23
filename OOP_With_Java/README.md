@@ -10,15 +10,15 @@ The repository is divided into subfolders, each representing a distinct project 
 
 ## Projects
 
-### 1. **Gym**
+### 1. **GymManagement**
    - A gym management system designed to handle clients, sessions, instructors, and gym operations.
    
-### 2. **OOP_EX1_2025**
+### 2. **Reversi_Game**
    - A Reversi (Othello) game implementation that includes human and AI players.
      
 ---
 
-##License
+## License
 This project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute this software in accordance with the terms of the license.
 
 ---
@@ -42,13 +42,13 @@ This project is licensed under the [MIT License](./LICENSE). You are free to use
    ```
 
 2. Navigate to the project you want to run:
-   - For **Gym**: 
+    - For **GymManagement**: 
      ```bash
-     cd Gym
+       cd GymManagement/Gym
      ```
-   - For **OOP_EX1_2025**:
+    - For **Reversi_Game**:
      ```bash
-     cd OOP_EX1_2025
+       cd Reversi_Game
      ```
 
 3. Open the project in your Java IDE (e.g., IntelliJ IDEA).
