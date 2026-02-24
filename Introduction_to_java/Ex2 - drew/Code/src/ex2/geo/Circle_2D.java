@@ -2,7 +2,7 @@ package ex2.geo;
 
 /** Circle_2D:
  * This class represents a 2D circle in the plane.
- * @author ofek bar-shalom (324161421)
+ * @author ofek bar-shalom
  */
 public class Circle_2D implements GeoShape{
 	private Point_2D _center;

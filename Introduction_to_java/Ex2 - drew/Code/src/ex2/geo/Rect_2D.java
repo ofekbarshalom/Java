@@ -2,7 +2,7 @@ package ex2.geo;
 
 /** Polygon_2D:
  * This class represents a 2D axis parallel rectangle.
- * @author ofek bar_shalom (324161421)
+ * @author ofek bar_shalom
  */
 public class Rect_2D implements GeoShape {
 	private Point_2D p1, p2, p3, p4;

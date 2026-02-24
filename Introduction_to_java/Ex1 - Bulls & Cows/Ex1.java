@@ -14,7 +14,7 @@ public class Ex1 {
     public static double counter=0;
     public static void main(String[] args) {
         BP_Server game = new BP_Server();   // Starting the "game-server"
-        long myID = 324161421L;
+        long myID = 111111111L;
         game.startGame(myID, numOfDigits);  // Starting a game
         System.out.println(Title+" with code of "+numOfDigits+" digits");
         //manualEx1Game(game);

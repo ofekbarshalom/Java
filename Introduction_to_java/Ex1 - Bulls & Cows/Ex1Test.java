@@ -1,9 +1,9 @@
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
+
+// Name: Ofek bar-shalom
+
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-/** Name: Ofek bar-shalom
- *  ID: 324161421
- */
 public class Ex1Test {
 
     @Test

@@ -25,7 +25,7 @@ import java.io.File;
  * wikipedia - Heron's formula (https://en.wikipedia.org/wiki/Heron%27s_formula)
  * chatGPT and wikipedia - ray casing formula (https://en.wikipedia.org/wiki/Point_in_polygon)
  *
- * @author boaz.ben-moshe + ofek bar-shalom (ID: 324161421)
+ * @author boaz.ben-moshe + ofek bar-shalom
  */
 
 

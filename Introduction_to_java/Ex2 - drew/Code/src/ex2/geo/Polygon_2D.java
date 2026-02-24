@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /** Polygon_2D:
  * This class represents a Polygon in the plane.
- * @author ofek bar-shalom (324161421)
+ * @author ofek bar-shalom
  */
 public class Polygon_2D implements GeoShape{
 	private ArrayList<Point_2D> vertex;
